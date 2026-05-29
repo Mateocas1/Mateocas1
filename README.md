@@ -4,6 +4,8 @@ Full-stack developer orientado a producto, integraciones, datos y automatizació
 
 Busco mi primera oportunidad IT en un equipo donde pueda crecer con code review, testing, buenas prácticas y producto real. Vengo de experiencia operativa en retail/logística y estoy construyendo proyectos aplicados con Next.js, TypeScript, APIs, pagos, datos, OCR, calendarios y automatización.
 
+Formación verificada: Diplomatura en Professional Full-Stack Developer aprobada en UTN FRBA y Curso de Desarrollo con NodeJS con nota Excelente.
+
 ## Proyectos principales
 
 ### Mena Nails — turnos, pagos y automatización para negocio local
@@ -22,7 +24,7 @@ Aplicación full-stack para buscar productos, comparar precios y armar una canas
 - Repo: https://github.com/Mateocas1/ofertaSUPER
 - Foco: APIs públicas, búsqueda, canasta local, ingesta, normalización/deduplicación, control de calidad de datos, cache/rate limiting y documentación de límites.
 - Stack: Next.js, TypeScript, Prisma, Supabase/PostgreSQL, Redis, Clerk, Tailwind CSS y GitHub Actions.
-- Límite honesto: demo/portfolio con smoke público; no afirmo producción-ready ni ingesta productiva activa sin evidencia fresca.
+- Límite honesto: demo/portfolio con smoke público; no afirmo producción cerrada ni ingesta productiva activa sin evidencia fresca.
 
 ### invent-stock — inventario operativo por Telegram
 
