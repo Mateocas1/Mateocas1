@@ -12,6 +12,7 @@ Formación verificada: Diplomatura en Professional Full-Stack Developer aprobada
 
 Aplicación full-stack para digitalizar reservas, pagos de seña, comprobantes y agenda operativa de un salón de manicura/uñas.
 
+- Demo vigente: https://test-kimi.vercel.app/
 - Foco: producto real, reglas de disponibilidad, MercadoPago, transferencia con apoyo OCR, panel admin y Google Calendar.
 - Stack: Next.js, React, TypeScript, Tailwind CSS, Convex, Clerk, MercadoPago, Gemini OCR, Google Calendar API, Vitest y Playwright.
 - Límite honesto: OCR funciona como apoyo a revisión, no como autoridad final de pago.
