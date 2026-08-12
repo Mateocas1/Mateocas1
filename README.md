@@ -20,6 +20,15 @@ Aplicación full-stack para digitalizar reservas, pagos de seña, comprobantes y
 - Stack: Next.js, React, TypeScript, Tailwind CSS, Convex, Clerk, MercadoPago, Gemini OCR, Google Calendar API, Vitest y Playwright.
 - Límite honesto: OCR funciona como apoyo a revisión, no como autoridad final de pago.
 
+### ShelfOps — operaciones de estantería con backend verificable
+
+MVP backend para gestionar incidentes y operaciones de estantería.
+
+- Repo y demo reproducible (`pnpm demo`): https://github.com/Mateocas1/shelfops
+- Foco: contratos, autorización OIDC, concurrencia, idempotencia, PostgreSQL y CI.
+- Stack: TypeScript, Fastify, PostgreSQL, OpenAPI y GitHub Actions.
+- Límite honesto: backend de portfolio sin interfaz gráfica ni servicio SaaS desplegado.
+
 ### ofertasSUPER — comparador de ofertas y precios
 
 Aplicación full-stack para buscar productos, comparar precios y armar una canasta local con foco en confianza del dato.
