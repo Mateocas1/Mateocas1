@@ -2,13 +2,25 @@
 
 Full-stack developer orientado a producto, integraciones, datos y automatización con IA.
 
-Busco mi primera oportunidad IT en un equipo donde pueda crecer con code review, testing, buenas prácticas y producto real. Vengo de experiencia operativa en retail/logística y estoy construyendo proyectos aplicados con Next.js, TypeScript, APIs, pagos, datos, OCR, calendarios y automatización.
+Busco mi primera oportunidad IT en un equipo donde pueda crecer con code review, testing, buenas prácticas y producto real. Vengo de experiencia operativa en retail/logística y estoy construyendo proyectos aplicados con Java y Spring Boot, Next.js, TypeScript, APIs, pagos, datos, OCR, calendarios y automatización.
 
 Formación verificada: Diplomatura en Professional Full-Stack Developer aprobada en UTN FRBA y Curso de Desarrollo con NodeJS con nota Excelente.
 
 Portfolio público: https://mateocas1.github.io/portfolio/
 
 ## Proyectos principales
+
+### rindetuplata — ¿dónde rinde tu plata hoy? (Java y Spring Boot)
+
+Comparador argentino de rendimientos: plazos fijos por banco, fondos money market, billeteras remuneradas y cripto, ordenados por los pesos que ganás con tu monto y tu plazo, y por cuánto le ganan a la inflación.
+
+- Repo: https://github.com/Mateocas1/rindetuplata
+- Case study: https://mateocas1.github.io/portfolio/rindetuplata.html
+- Problema: con inflación alta una tasa no dice si ganás plata; cada opción tiene topes, tramos y plazos mínimos, y ninguna fuente guarda el historial por banco o billetera.
+- Resultado: ordena 398 opciones de ahorro por retorno real para cualquier monto y plazo, con ingesta diaria idempotente de 9 fuentes (Spring Batch), matemática financiera en `BigDecimal` probada contra valores calculados a mano, y alertas por email con outbox transaccional a RabbitMQ y login por magic link.
+- Calidad: 450 tests de backend con Testcontainers (PostgreSQL y RabbitMQ reales), 398 de frontend y un end-to-end con Playwright sobre el stack completo en Docker Compose.
+- Stack: Java 21, Spring Boot 4, Spring Batch, Spring Security, PostgreSQL, Flyway, RabbitMQ, Astro, React, Docker y GitHub Actions.
+- Límite honesto: corre como preview privada; todavía no tiene despliegue público.
 
 ### Mena Nails — turnos, pagos y automatización para negocio local
 
@@ -57,7 +69,7 @@ Proyecto orientado a operación de stock, alertas y consultas rápidas para nego
 
 ## Stack principal
 
-React · Next.js · TypeScript · Node.js · APIs · PostgreSQL/Supabase · Prisma · Convex · Redis · Clerk · MercadoPago · Google Calendar · Gemini OCR · Playwright · Vitest · GitHub Actions
+Java · Spring Boot · RabbitMQ · React · Next.js · TypeScript · Node.js · APIs · PostgreSQL/Supabase · Prisma · Convex · Redis · Clerk · MercadoPago · Google Calendar · Gemini OCR · Playwright · Vitest · GitHub Actions
 
 ## Contacto
 
