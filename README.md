@@ -26,7 +26,6 @@ Comparador argentino de rendimientos: plazos fijos por banco, fondos money marke
 
 Aplicación full-stack para digitalizar reservas, pagos de seña, comprobantes y agenda operativa de un salón de manicura/uñas.
 
-- Demo vigente: https://test-kimi.vercel.app/
 - Case study: https://mateocas1.github.io/portfolio/mena-nails.html
 - Foco: producto real, reglas de disponibilidad, MercadoPago, transferencia con apoyo OCR, panel admin y Google Calendar.
 - Stack: Next.js, React, TypeScript, Tailwind CSS, Convex, Clerk, MercadoPago, Gemini OCR, Google Calendar API, Vitest y Playwright.
@@ -45,7 +44,6 @@ MVP backend para gestionar incidentes y operaciones de estantería.
 
 Aplicación full-stack para buscar productos, comparar precios y armar una canasta local con foco en confianza del dato.
 
-- Demo: https://ofertas-super.vercel.app
 - Repo: https://github.com/Mateocas1/ofertaSUPER
 - Case study: https://mateocas1.github.io/portfolio/ofertas-super.html
 - Foco: APIs públicas, búsqueda, canasta local, ingesta, normalización/deduplicación, control de calidad de datos, cache/rate limiting y documentación de límites.
